@@ -1,6 +1,7 @@
 name: FreeGithub
 
 on:
+  push:
   schedule:
     - cron: '0 0 * * 1'  # 分、时、日、月、周
 
