@@ -5,24 +5,24 @@
 ## hosts列表
 ```base
 #Github Host Start
-github.githubassets.com 34.212.134.181
-camo.githubusercontent.com 34.222.128.205
-github.map.fastly.net 18.236.134.102
-github.global.ssl.fastly.net 18.236.134.102
-github.com 35.165.221.123
-api.github.com 18.236.155.99
-raw.githubusercontent.com 54.190.93.216
-favicons.githubusercontent.com 52.33.119.65
-avatars5.githubusercontent.com 34.219.209.153
-avatars4.githubusercontent.com 18.237.150.189
-avatars3.githubusercontent.com 35.165.221.123
-avatars2.githubusercontent.com 54.185.195.143
-avatars1.githubusercontent.com 34.222.128.205
-avatars0.githubusercontent.com 54.190.93.216
+github.githubassets.com 35.88.191.220
+camo.githubusercontent.com 35.165.179.235
+github.map.fastly.net 54.200.43.226
+github.global.ssl.fastly.net 54.70.5.224
+github.com 35.86.127.61
+api.github.com 35.88.191.220
+raw.githubusercontent.com 35.88.135.48
+favicons.githubusercontent.com 34.223.251.207
+avatars5.githubusercontent.com 54.202.196.122
+avatars4.githubusercontent.com 34.223.252.45
+avatars3.githubusercontent.com 54.202.61.193
+avatars2.githubusercontent.com 52.27.161.85
+avatars1.githubusercontent.com 54.245.217.116
+avatars0.githubusercontent.com 54.200.43.226
 # Github Host End
 ```
 
-更新时间：2022-02-21 09:10:46
+更新时间：2022-02-28 09:19:26
 
 ## 修改本机的hosts文件
 ### 存放位置
